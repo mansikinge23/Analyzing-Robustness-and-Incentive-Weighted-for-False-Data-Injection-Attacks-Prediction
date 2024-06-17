@@ -11,7 +11,7 @@ This project focuses on improving the security of smart grids against False Data
 
 Objectives:
 
-1. To propose a machine learning-based approach for detecting FDIA in smart grids.T
+1. To propose a machine learning-based approach for detecting FDIA in smart grids.
 2. To train a classifier on a large dataset of smart grid data to distinguish between normal and anomalous data indicative of attacks.
 3. To evaluate the effectiveness and robustness of the proposed method against new and emerging threats.
 
