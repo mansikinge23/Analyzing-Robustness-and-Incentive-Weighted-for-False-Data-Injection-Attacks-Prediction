@@ -33,8 +33,8 @@ b. Evaluating the models based on their accuracy, precision, recall, and F1 scor
 
 Implementation Details:
 
-a. Using a combination of machine learning techniques to preprocess, train, and test the models.
-b. Using confusion matrices and ROC AUC curves to analyze the performance of the classifiers.
+1. Using a combination of machine learning techniques to preprocess, train, and test the models.
+2. Using confusion matrices and ROC AUC curves to analyze the performance of the classifiers.
 
 Results and Discussion:
 
