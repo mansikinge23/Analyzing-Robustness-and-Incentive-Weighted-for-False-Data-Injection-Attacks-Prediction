@@ -21,13 +21,13 @@ Methodology:
 a. Collecting extensive smart grid data.
 b. Cleaning the data by handling missing values and eliminating highly correlated features to avoid redundancy.
 c. Balancing the dataset by under-sampling the natural records to match the number of attack records.
-d. Feature Selection and Extraction:
 
-2. Reducing the model complexity and improving computational efficiency by selecting significant features.  
-a. Extracting relevant features that can help in accurately predicting the attacks.
-b. Model Training and Testing:
+2. Feature Selection and Extraction:
+a. Reducing the model complexity and improving computational efficiency by selecting significant features: 
+b. Extracting relevant features that can help in accurately predicting the attacks.
+c. Model Training and Testing:
 
-3. Splitting the dataset into training and testing sets.
+3. Splitting the dataset into training and testing sets:
 a. Training various machine learning models, including Logistic Regression, XGB Classifier, Bagging Classifier, Random Forest Classifier, Extra Tree Classifier, and Decision Tree.
 b. Evaluating the models based on their accuracy, precision, recall, and F1 score.
 
